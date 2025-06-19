@@ -307,14 +307,14 @@ export const contentRows: ContentRow[] = [
       
       // Update with custom images
       const customImages = [
-        '/src/assets/1.jpg',  // Box 1
-        '/src/assets/2.jpg',  // Box 2
-        '/src/assets/3.jpg',  // Box 3
-        '/src/assets/4.jpg',  // Box 4
-        '/src/assets/5.jpg',  // Box 5
-        '/src/assets/1.jpg',  // Box 6 (reuse image 1)
-        '/src/assets/2.jpg',  // Box 7 (reuse image 2)
-        '/src/assets/3.jpg',  // Box 8 (reuse image 3)
+        '/src/assets/1 copy.jpg',  // Box 1
+        '/src/assets/2 copy.jpg',  // Box 2
+        '/src/assets/3 copy.jpg',  // Box 3
+        '/src/assets/4 copy.jpg',  // Box 4
+        '/src/assets/5 copy.jpg',  // Box 5
+        '/src/assets/1 copy.jpg',  // Box 6 (reuse image 1)
+        '/src/assets/2 copy.jpg',  // Box 7 (reuse image 2)
+        '/src/assets/3 copy.jpg',  // Box 8 (reuse image 3)
       ];
       
       return scifiMovies.map((movie, index) => ({
